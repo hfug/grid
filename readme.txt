@@ -1,2 +1,6 @@
-This is the readme file, there is nothing here for you, go away`-`
+This is the readme file.
 
+To view the grid system code, check out the src folder. 
+You can download the code, and play withit yourself.
+
+see a worling example at http://hawaiiflash.net/test.html
