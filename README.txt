@@ -1,2 +1,0 @@
-This is the readme file for the Grid system.
-I will add notes later on how you can use this!
